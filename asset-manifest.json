@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-wiki-search/static/css/main.57a168c1.chunk.css",
+    "main.js": "/react-wiki-search/static/js/main.25f4cec7.chunk.js",
+    "main.js.map": "/react-wiki-search/static/js/main.25f4cec7.chunk.js.map",
+    "runtime~main.js": "/react-wiki-search/static/js/runtime~main.0de9f8c1.js",
+    "runtime~main.js.map": "/react-wiki-search/static/js/runtime~main.0de9f8c1.js.map",
+    "static/css/2.29be09bf.chunk.css": "/react-wiki-search/static/css/2.29be09bf.chunk.css",
+    "static/js/2.3d7fbed0.chunk.js": "/react-wiki-search/static/js/2.3d7fbed0.chunk.js",
+    "static/js/2.3d7fbed0.chunk.js.map": "/react-wiki-search/static/js/2.3d7fbed0.chunk.js.map",
+    "index.html": "/react-wiki-search/index.html",
+    "precache-manifest.8c986bc52084322fb4bff92a328c54b3.js": "/react-wiki-search/precache-manifest.8c986bc52084322fb4bff92a328c54b3.js",
+    "service-worker.js": "/react-wiki-search/service-worker.js",
+    "static/css/2.29be09bf.chunk.css.map": "/react-wiki-search/static/css/2.29be09bf.chunk.css.map",
+    "static/css/main.57a168c1.chunk.css.map": "/react-wiki-search/static/css/main.57a168c1.chunk.css.map"
+  }
+}
